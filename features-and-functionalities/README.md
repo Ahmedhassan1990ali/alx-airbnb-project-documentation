@@ -1,0 +1,1 @@
+![features-and-functionalities](features-and-functionalities_drawio.png)
